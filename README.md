@@ -48,7 +48,7 @@ This project provides endpoints to **create**, **read**, **update**, and **delet
 1. **Clone the repository**
 
 `
-git clone https://github.com/Mayank8016/Students-Management-System.git
+git clone https://github.com/subhash-8651/Student-Management-System.git
 cd Students-Management-System
 Install dependencies
 
